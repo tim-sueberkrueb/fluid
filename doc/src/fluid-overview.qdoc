@@ -1,0 +1,29 @@
+/*
+ * This file is part of Fluid.
+ *
+ * Copyright (C) 2016 Pier Luigi Fiorini <pierluigi.fiorini@gmail.com>
+ *
+ * $BEGIN_LICENSE:MPL2$
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * $END_LICENSE$
+ */
+
+/*!
+  \page fluid-index.html
+  \title Fluid
+  \brief A collection of cross-platform QtQuick components for building fluid and dynamic applications
+
+  \section1 API Reference
+
+  The Fluid API can be used from C++ or QML.
+
+  \list
+  \li \l{Fluid QML Types}
+  \li \l{Fluid C++ Classes}
+  \endlist
+
+*/
