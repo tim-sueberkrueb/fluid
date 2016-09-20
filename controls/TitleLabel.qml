@@ -17,7 +17,7 @@ import QtQuick.Templates 2.0 as T
 
 /*!
     \qmltype TitleLabel
-    \inqmlmodule Fluid.Controls 1.0
+    \inqmlmodule Fluid.Controls
     \brief Text label with standard font and styling suitable to titles.
 
     \code

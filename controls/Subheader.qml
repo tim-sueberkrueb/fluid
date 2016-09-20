@@ -19,7 +19,7 @@ import Fluid.Controls 1.0
 
 /*!
    \qmltype Subheader
-   \inqmlmodule Fluid.Controls 1.0
+   \inqmlmodule Fluid.Controls
 
    \brief Subheaders are special list tiles that delineate distinct sections of a list or grid list.
  */

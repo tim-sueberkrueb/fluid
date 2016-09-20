@@ -18,7 +18,7 @@ import Fluid.Controls 1.0
 
 /*!
    \qmltype FluidWindow
-   \inqmlmodule Fluid.Controls 1.0
+   \inqmlmodule Fluid.Controls
 
    \brief A window that provides features commonly used for Material Design apps.
 

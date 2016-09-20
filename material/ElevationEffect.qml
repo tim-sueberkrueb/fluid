@@ -16,7 +16,12 @@ import QtQuick 2.6
 import Fluid.Effects 1.0
 
 /*!
-   An effect for standard Material Design elevation shadows. Useful for using as \c layer.effect.
+   \qmltype ElevationEffect
+   \inqmlmodule Fluid.Material
+
+   \brief An effect for standard Material Design elevation shadows
+
+   Useful for using as \c layer.effect.
  */
 Item {
     id: effect

@@ -15,7 +15,12 @@
 import QtGraphicalEffects 1.0
 
 /*!
-   A implementation of CSS's box-shadow, used by ElevationEffect for a Material Design
+   \qmltype BoxShadow
+   \inqmlmodule Fluid.Effects
+
+   \brief A implementation of CSS's box-shadow.
+
+   BoxShadow is used by ElevationEffect for a Material Design
    elevation shadow effect.
  */
 RectangularGlow {

@@ -16,7 +16,7 @@ import QtQuick 2.4
 
 /*!
    \qmltype ThinDivider
-   \inqmlmodule Fluid.Controls 1.0
+   \inqmlmodule Fluid.Controls
 
    \brief A 1px high divider for use in lists and other columns of content.
  */

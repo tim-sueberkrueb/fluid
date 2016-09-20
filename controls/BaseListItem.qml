@@ -17,7 +17,7 @@ import QtQuick.Controls 2.0
 
 /*!
    \qmltype BaseListItem
-   \inqmlmodule Fluid.Controls 1.0
+   \inqmlmodule Fluid.Controls
 
    \brief The base class for list items.
 

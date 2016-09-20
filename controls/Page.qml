@@ -18,7 +18,7 @@ import Fluid.Controls 1.0
 
 /*!
    \qmltype Page
-   \inqmlmodule Fluid.Controls 1.0
+   \inqmlmodule Fluid.Controls
 
    \brief Represents a page on the navigation page stack.
 
