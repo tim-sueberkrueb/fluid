@@ -1,6 +1,7 @@
 /*
  * This file is part of Fluid.
  *
+ * Copyright (C) 2016 Tim Süberkrüb <tim.sueberkrueb@web.de>
  * Copyright (C) 2016 Pier Luigi Fiorini <pierluigi.fiorini@gmail.com>
  *
  * $BEGIN_LICENSE:MPL2$
@@ -14,7 +15,7 @@
 
 /*!
   \qmlmodule Fluid.Core 1.0
-  \title Fluid QML Types
+  \title Fluid Core
   \ingroup core
   \brief Core
 */
